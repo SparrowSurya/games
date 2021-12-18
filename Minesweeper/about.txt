@@ -1,0 +1,19 @@
+OS: Windows
+
+1. first click is 100% safe; and time  starts
+2. single-left-click on tile to uncover
+3. single-right-click on tile to flag as mine or unflag
+
+4. if a tile has a number same as the flags(assuing that flags depict mines) then double-left-click will uncover all the tiles around it and this will apply recursively for others as well
+
+5. the left-number display represents the number of mines left
+6. the right-number display is time(seconds); on exceeding 999 it goes back to 000 but the actual time dont change
+
+7. the middle face button is quick-playbutton; it takes settings from the last mathc settings
+
+8. in menus; only file menu works
+9. in file menu>>new, you can decide your own parameters; the limit of max row and column is set in game_functools.py>>rawboard class>> maxlen; however bugs mayarise at some extreme cases
+
+10. the timer is not accurate
+11. no sounds in game
+
