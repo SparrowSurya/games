@@ -1,0 +1,20 @@
+{
+    "tile_default"   : "light_theme\\tile_default.png",
+    "tile_highlight" : "light_theme\\tile_highlight.png",
+    "tile_bomb"      : "light_theme\\tile_bomb.png",
+    "tile_blast"     : "light_theme\\tile_blast.png",
+    "tile_flag"      : "light_theme\\tile_flag.png",
+    "tile_0"         : "light_theme\\tile_0.png",
+    "tile_1"         : "light_theme\\tile_1.png",
+    "tile_2"         : "light_theme\\tile_2.png",
+    "tile_3"         : "light_theme\\tile_3.png",
+    "tile_4"         : "light_theme\\tile_4.png",
+    "tile_5"         : "light_theme\\tile_5.png",
+    "tile_6"         : "light_theme\\tile_6.png",
+    "tile_7"         : "light_theme\\tile_7.png",
+    "tile_8"         : "light_theme\\tile_8.png",
+    "face_smile"     : "light_theme\\smile.png",
+    "face_sad"       : "light_theme\\sad.png",
+    "face_won"       : "light_theme\\face_won.png",
+    "tile_cross"     : "light_theme\\cross.png"
+}
